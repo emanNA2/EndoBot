@@ -5,4 +5,4 @@ Artificial Intelligence in Robotics project (minor and major simultaneously)
   Installation:
 </p>
 
-made by: Timon, the256r, and, eman
+made by: Timon, the256r, and eman
